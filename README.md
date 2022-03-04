@@ -1,4 +1,5 @@
 # vue-image-storage
+Upload and view images using the imgur api. This project is built with VUE 3.
 
 ## Project setup
 ```
